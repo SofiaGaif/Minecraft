@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+    color: #20205C;
+    border: 3px solid #8E97EA;
+    border-radius: 100px;
+    text-decoration: none;
+    padding: 3px;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    color: #0A1346;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: #1c1c81;
+}
+
+h2 {
+    font-size: 34px;
+    color: #1c1c81;
+}
+
+ol {
+    font-size: 20px;
+}
+
+li {
+    border: 3px solid #8E97EA;
+    border-radius: 25px;
+    padding: 3px;
+    color: #1c1c81;
+}
+
+footer p {
+    color: #1c1c81;
+}
+
+footer {
+    padding: 10px;
+}
+
+footer img {
+    width: 120px;
+}
